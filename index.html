@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="./output.css" rel="stylesheet">
+</head>
+<body class="bg-[#1E2939] h-screen flex justify-center items-center">
+    <div class="bg-[#3F3F46] h-[400px] w-[350px] rounded-2xl flex flex-col items-center">
+        <h1 class="text-xl font-semibold mb-3 text-white mt-7">Enter a number between 1 to 100!</h1>
+        <p class="text-sm italic text-gray-300 mt-3">"You have only <span class="text-yellow-500">5</span> attempts to Guess the right number"</p>
+        <input class="userValue mt-10 bg-gray-500 border-none rounded-xl p-3" type="text" placeholder="Guess the number">
+        <p class="output text-sm italic text-gray-300"></p>
+        <p class="userGuessed text-xl font-semibold flex mt-3 text-white"></p>
+        <p class="remainingAttempts text-xl font-semibold mt-3 text-white"></p>
+        <button class="submit p-3 bg-gray-500 rounded-xl mt-5 text-white cursor-pointer  hover:text-black">Submit</button>
+        <script src="app.js"></script>
+    </div>
+</body>
+</html>
