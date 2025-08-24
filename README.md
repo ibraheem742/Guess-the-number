@@ -20,8 +20,13 @@ A simple **JavaScript-based number guessing game** where the player tries to gue
 
 ---
 
+## 🌍 Live Demo 
+Play the game here: [Guess the Number](https://guess-the-number-three-tau.vercel.app/)
+
+---
+
 ## 📷 Demo Screenshot  
-<img width="436" height="436" alt="image" src="https://github.com/user-attachments/assets/d34c062f-ad8b-4d15-afff-4e4f1a8df0f0" />
+<img width="1919" height="920" alt="image" src="https://github.com/user-attachments/assets/4caae2b2-01cb-4438-8d03-83096a48170d" />
 
 
 ---
